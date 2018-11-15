@@ -1,3 +1,6 @@
+// Author: Shawn Ge
+// Other contributors: Brooks Boyd
+
 pragma solidity ^0.4.16; //version of solidity ran
 
 contract Admins{
